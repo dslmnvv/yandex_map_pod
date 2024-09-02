@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name             = 'YandexMapsMobile'
+  s.name             = 'YandexMapsMobile-fork'
   s.version          = '4.4.0-full'
   s.summary         = 'YandexMapsMobile iOS Framework'
   s.homepage        = 'https://tech.yandex.com/maps/mapkit'
